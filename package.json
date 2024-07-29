@@ -47,6 +47,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+"homepage": "https://sondos-ahmad.github.io/my-app/"
 
 }
