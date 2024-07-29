@@ -1,6 +1,6 @@
 // src/App.js
 import React from 'react';
-import Navbar from './Navserbar';
+import Navbar from './Navbar';
 import { Box, Typography } from '@mui/material';
 import InfoCard from './infoCard';
 
